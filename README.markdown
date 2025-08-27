@@ -81,7 +81,7 @@ Now,
 ```bash
 open up your local host and port (e.g., http://localhost:8501)
 ```
-Mac_AI_Teaching_Assistant.png
+![AI Teaching Assistant Interface](Mac_AI_Teaching_Assistant.png)
 
 **Note**: Ensure `llama-2-7b-chat.Q4_K_M.gguf` is in the project directory and the path in `app.py` is correct.
 
