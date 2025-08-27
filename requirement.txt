@@ -1,7 +1,0 @@
-langchain==0.1.14
-sentence-transformers==2.6.1
-faiss-cpu==1.8.0
-pdfminer.six==20231228
-llama_cpp_python==0.2.58
-tiktoken==0.6.0
-gdown==5.1.0
